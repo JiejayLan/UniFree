@@ -8,6 +8,9 @@ UniFree aims to provide students an anonymous forum to discuss about their feeli
 - Jie Lan
 - Enger Then
 
+# Demo
+<img src='./view.gif' alt='customer View' />
+
 # Frontend
 - [Live Demo](https://master.d1rfx6pqw4meql.amplifyapp.com/)
 - [Unifree-Frontend](https://github.com/JiejayLan/unifreefrontend)
